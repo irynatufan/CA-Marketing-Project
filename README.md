@@ -7,4 +7,4 @@ This repository was created to demonstrate my knowledge and skills in software t
 -  API Testing: Postman
 -  Performance Testing: Lighthouse, GTMetrix
 -  Security Testing: Immuniweb, Pentest
--  Other: Allure for test reporting
+
